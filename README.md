@@ -1,0 +1,1 @@
+# SnagIt-for-Windows
