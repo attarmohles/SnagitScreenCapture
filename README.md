@@ -1,5 +1,7 @@
 📸# SnagIt
+
 📌 Description
+
 The best snipping tool for Mac and Windows
 With Snagit, you can quickly grab screenshots, record your screen, and add annotations to
 communicate processes and concepts clearly. 
