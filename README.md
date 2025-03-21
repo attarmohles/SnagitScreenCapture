@@ -1,4 +1,4 @@
-📸# SnagIt
+📸SnagIt
 
 📌 Description
 
@@ -29,7 +29,7 @@ Don’t let clumsy built-in snipping tools hold you back. Snagit has all the too
 Want to improve Greenshot? Fork the repository and submit your contributions via pull requests.
 
 
-📜 License
+📜 License 
 This project is distributed under the MIT License. See the LICENSE file for details.
 
 
