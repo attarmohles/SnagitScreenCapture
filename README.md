@@ -20,11 +20,14 @@ Don’t let clumsy built-in snipping tools hold you back. Snagit has all the too
 
 ⚠️ Note: This method ensures a quick and hassle-free installation.
 
+
 🤝 How to Contribute
 Want to improve Greenshot? Fork the repository and submit your contributions via pull requests.
 
+
 📜 License
 This project is distributed under the MIT License. See the LICENSE file for details.
+
 
 💡 Acknowledgments
 Thanks to the community for feedback and continuous improvements!
