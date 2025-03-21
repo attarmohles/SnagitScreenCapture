@@ -1,4 +1,3 @@
-📸SnagIt
 
 📌 Description
 
